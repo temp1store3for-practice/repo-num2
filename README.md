@@ -1,1 +1,1 @@
-This text is from feature/about-page branch
+This text is from main branch
